@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "aula0308",
+    "slug": "snack-b91d5cae-5059-4c1e-8ccc-0ff792b5b1e1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.felipe.csilva.snackb91d5cae50594c1e8ccc0ff792b5b1e1"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c0b10e7d-f249-446b-87b5-a002fd5330d9"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
